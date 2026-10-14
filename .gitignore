@@ -1,0 +1,8 @@
+# Karkas (AI team): local artifacts
+.claude/team/backup/
+.claude/team/incoming/
+.claude/team/kit-source.txt
+.claude/team/state/update-check.json
+.claude/team/state/screenshots/
+.claude/team/state/compactions/
+.claude/agent-memory-local/
